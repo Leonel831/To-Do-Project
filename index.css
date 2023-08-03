@@ -1,0 +1,46 @@
+
+body{
+    /* background-color: #5BC3EB; */
+    background-color: #0D0D0D;
+
+}
+
+img{
+    width: 200px;
+    height: auto;
+}
+.pic {
+    text-align: center;
+    margin: 5px;
+}
+.box {
+    align-items: center;
+    color: white;
+  }
+.text{
+    text-align: center;
+    margin-top: 15%;
+}
+
+
+div{
+    align-items: center;
+}
+.myBox{
+    border: 3px solid white;
+  background-color: #FACF39;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width:75%;
+  margin-left: 125px;
+  font-size: 30px;
+    
+}
+.aBtn{
+    background-color: red;
+    margin-right: 20px;
+}
